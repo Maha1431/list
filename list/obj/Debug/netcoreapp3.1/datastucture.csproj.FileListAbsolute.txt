@@ -1,0 +1,14 @@
+C:\Users\CSC\source\repos\list\list\obj\Debug\netcoreapp3.1\datastucture.csproj.AssemblyReference.cache
+C:\Users\CSC\source\repos\list\list\obj\Debug\netcoreapp3.1\datastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CSC\source\repos\list\list\obj\Debug\netcoreapp3.1\datastucture.AssemblyInfoInputs.cache
+C:\Users\CSC\source\repos\list\list\obj\Debug\netcoreapp3.1\datastucture.AssemblyInfo.cs
+C:\Users\CSC\source\repos\list\list\obj\Debug\netcoreapp3.1\datastucture.csproj.CoreCompileInputs.cache
+C:\Users\CSC\source\repos\list\list\bin\Debug\netcoreapp3.1\datastucture.exe
+C:\Users\CSC\source\repos\list\list\bin\Debug\netcoreapp3.1\datastucture.deps.json
+C:\Users\CSC\source\repos\list\list\bin\Debug\netcoreapp3.1\datastucture.runtimeconfig.json
+C:\Users\CSC\source\repos\list\list\bin\Debug\netcoreapp3.1\datastucture.runtimeconfig.dev.json
+C:\Users\CSC\source\repos\list\list\bin\Debug\netcoreapp3.1\datastucture.dll
+C:\Users\CSC\source\repos\list\list\bin\Debug\netcoreapp3.1\datastucture.pdb
+C:\Users\CSC\source\repos\list\list\obj\Debug\netcoreapp3.1\datastucture.dll
+C:\Users\CSC\source\repos\list\list\obj\Debug\netcoreapp3.1\datastucture.pdb
+C:\Users\CSC\source\repos\list\list\obj\Debug\netcoreapp3.1\datastucture.genruntimeconfig.cache
